@@ -68,3 +68,26 @@ These hyperparameters define **what the model is trying to optimize** and how it
   A common example is `auc`, which measures how well the model separates classes.
 
 ---
+
+### Hyperparameter tuning approaches
+
+**TODO:**
+- Learn more indepth about manual and automated tuning options
+
+Hyperparameter tuning can be done manually or through automation using tool (AMT :- Amazon Sagemaker Automatic Model Tuning)
+
+---
+
+#### 1️⃣ Manual
+
+- **Grid Search**
+- **Random Search**
+- **Bayesian Search**
+
+---
+
+#### 2️⃣ Automated
+
+We can perform automated hyperparameter tuning using "AMT" (Amazon Sagemaker Automatic Model Tuning)
+
+---
